@@ -1,0 +1,7 @@
+{
+    "canet":{
+        "version":"n345",
+        "url":"http://192.168.1.55:8383/esp8266web/folder/send_firebase.ino.nodemcu.bin",
+        "httpsFingerprint": ""
+    }
+}
